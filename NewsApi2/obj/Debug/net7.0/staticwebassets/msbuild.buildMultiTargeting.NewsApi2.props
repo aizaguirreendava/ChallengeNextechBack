@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NewsApi2.props" />
+</Project>
